@@ -5,12 +5,13 @@ A quick python script that generates mp4's that showcase the evolution of a neur
 ## Running the project
 
 1. Start the virtual environment
-   **Windows**
-   `.venv\Scripts\activate`
-   `python main.py`
 
-   **Mac and Linux**
-   `source .venv/bin/activate`
+**Windows**
+`.venv\Scripts\activate`
+`python main.py`
+
+**Mac and Linux**
+`source .venv/bin/activate`
 
 2. Run main.py
    `python main.py`
