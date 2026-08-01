@@ -4,7 +4,7 @@ A quick python script that generates mp4's that showcase the evolution of a neur
 
 ## Running the project
 
-1. Start the virtual environment
+### Start the virtual environment
 
 **Windows**
 `.venv\Scripts\activate`
@@ -13,5 +13,6 @@ A quick python script that generates mp4's that showcase the evolution of a neur
 **Mac and Linux**
 `source .venv/bin/activate`
 
-2. Run main.py
-   `python main.py`
+### Run main.py
+
+`python main.py`
